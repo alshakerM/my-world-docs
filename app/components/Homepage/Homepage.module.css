@@ -1,0 +1,8 @@
+.mainContent {
+  padding: 27px;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  color: black;
+}

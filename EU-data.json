@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Albania",
+    "population": 2877797,
+    "languages": ["Albanian"],
+    "historySummary": "In the last century, Albania has witnessed significant political and social transformations. From its communist regime, led by Enver Hoxha until his death in 1985, to its transition to a multi-party system in the early 1990s, the nation has experienced both challenges and growth. The fall of communism in 1990 led to economic collapse and social unrest, prompting an Albanian diaspora. The country faced significant turmoil in 1997 due to economic crisis. However, improvements in economic and political conditions throughout the early 21st century have allowed Albania to join NATO in 2009, and it is currently a candidate for EU membership.",
+    "joke": "Why did the Albanian tomato turn red? Because it saw the salad dressing!",
+    "capital": "Tirana",
+    "religion": "Islam, Christianity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png"
+  },
+  {
+    "name": "Andorra",
+    "population": 77265,
+    "languages": ["Catalan"],
+    "historySummary": "Andorra, nestled in the Pyrenees mountains, has maintained its status as a tax haven and a popular tourist destination. In 2008, it signed an agreement with the EU to improve its banking and financial practices, enhancing its global reputation as a financial hub.",
+    "joke": "Why do banks in Andorra have a great sense of humor? Because they deal with a lot of 'cents'!",
+    "capital": "Andorra la Vella",
+    "religion": "Roman Catholicism",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1280px-Flag_of_Andorra.svg.png"
+  },
+  {
+    "name": "Austria",
+    "population": 8901064,
+    "languages": ["German"],
+    "historySummary": "Austria, with its rich cultural heritage and stunning Alpine landscapes, joined the European Union in 1995. It has played a key role in European politics and has been involved in various international peace initiatives. Austria is also known for its musical legacy, with famous composers like Mozart and Strauss hailing from the country.",
+    "joke": "Did you hear about the Austrian musician who composed a symphony while drinking coffee? He really knew how to espresso himself!",
+    "capital": "Vienna",
+    "religion": "Roman Catholicism",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png"
+  },
+  {
+    "name": "Belarus",
+    "population": 9449323,
+    "languages": ["Belarusian", "Russian"],
+    "historySummary": "Belarus has been ruled by President Alexander Lukashenko for several decades, leading to tensions with the EU over human rights and democracy issues.",
+    "joke": "Why did the Belarusian computer go to therapy? It had too many control issues!",
+    "capital": "Minsk",
+    "religion": "Christianity (Orthodox and Catholic)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1280px-Flag_of_Belarus.svg.png"
+  },
+  {
+    "name": "Belgium",
+    "population": 11686140,
+    "languages": ["Dutch", "French", "German"],
+    "historySummary": "Belgium has faced political challenges due to linguistic and regional divisions. It's known for being the de facto capital of the European Union, hosting important EU institutions.",
+    "joke": "Why do Belgians make terrible spies? Because they can't keep a secret in three languages!",
+    "capital": "Brussels",
+    "religion": "Christianity (Catholicism and Protestantism)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "population": 3301000,
+    "languages": ["Bosnian", "Croatian", "Serbian"],
+    "historySummary": "Bosnia and Herzegovina experienced a brutal civil war in the 1990s. Since then, it has been working on post-war reconstruction and reconciliation efforts.",
+    "joke": "Why did the Bosnian mathematician bring a ladder to the bar? Because he wanted to get some high spirits!",
+    "capital": "Sarajevo",
+    "religion": "Islam, Christianity (Orthodox and Catholic)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "name": "Bulgaria",
+    "population": 7000039,
+    "languages": ["Bulgarian"],
+    "historySummary": "Bulgaria joined the European Union in 2007 and has since been working on economic reforms and improving its infrastructure.",
+    "joke": "What do you call a Bulgarian superhero? Balkan Man!",
+    "capital": "Sofia",
+    "religion": "Christianity (Orthodox and Catholic)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1280px-Flag_of_Bulgaria.svg.png"
+  },
+  {
+    "name": "Croatia",
+    "population": 4076246,
+    "languages": ["Croatian"],
+    "historySummary": "Croatia became a member of the European Union in 2013. It has been focusing on tourism development and EU integration.",
+    "joke": "Why did the Croatian chef go broke? Because he lost his seasoning!",
+    "capital": "Zagreb",
+    "religion": "Christianity (Catholicism)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1280px-Flag_of_Croatia.svg.png"
+  },
+  {
+    "name": "Cyprus",
+    "population": 888005,
+    "languages": ["Greek", "Turkish"],
+    "historySummary": "Cyprus has been divided between the Greek Cypriot south and the Turkish Cypriot north since 1974. Reunification efforts have been ongoing, but a resolution has not been reached.",
+    "joke": "Why did the computer go to Cyprus for vacation? Because it needed a byte of the Mediterranean!",
+    "capital": "Nicosia",
+    "religion": "Christianity (Orthodox and Islam)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1280px-Flag_of_Cyprus.svg.png"
+  },
+  {
+    "name": "Czech Republic",
+    "population": 10708981,
+    "languages": ["Czech"],
+    "historySummary": "The Czech Republic, formerly part of Czechoslovakia, became an independent nation in 1993. It has been an EU member since 2004 and is known for its rich history and culture.",
+    "joke": "Why don't Czechs ever tell secrets? Because they always have a lot of 'Prague' on their minds!",
+    "capital": "Prague",
+    "religion": "Atheism, Christianity (Catholicism and Protestantism)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png"
+  },
+  {
+    "name": "Denmark",
+    "population": 5822763,
+    "languages": ["Danish"],
+    "historySummary": "Denmark has been a member of the European Union since 1973. It is known for its strong welfare system and commitment to renewable energy.",
+    "joke": "Why do Danish farmers make great DJs? Because they're experts at mixing!",
+    "capital": "Copenhagen",
+    "religion": "Christianity (Lutheran)",
+    "image": "https://www.countryflags.com/wp-content/uploads/denmark-flag-png-large.png"
+  },
+  {
+    "name": "Estonia",
+    "population": 1325648,
+    "languages": ["Estonian"],
+    "historySummary": "Estonia regained its independence from the Soviet Union in 1991. It has since developed a highly digitalized society and joined the European Union in 2004.",
+    "joke": "What do Estonian computers dream of? Electric sheep!",
+    "capital": "Tallinn",
+    "religion": "Christianity (Lutheran and Orthodox)",
+    "image": "https://www.countryflags.com/wp-content/uploads/estonia-flag-png-large.png"
+  },
+  {
+    "name": "Finland",
+    "population": 5536146,
+    "languages": ["Finnish", "Swedish"],
+    "historySummary": "Finland is known for its high-quality education system and has been a member of the European Union since 1995.",
+    "joke": "Why did the Finnish person become a gardener? Because they wanted to make the tulips!",
+    "capital": "Helsinki",
+    "religion": "Christianity (Lutheran)",
+    "image": "https://www.countryflags.com/wp-content/uploads/finland-flag-png-large.png"
+  },
+  {
+    "name": "France",
+    "population": 67454000,
+    "languages": ["French"],
+    "historySummary": "Over the past 50 years, France has been under the Fifth Republic, a political regime that started in 1958 and is characterized by a strong presidential system. The country has seen significant demographic changes due to a post-war 'baby boom' and immigration, particularly from former French colonies such as Algeria, Morocco, Tunisia, Senegal, Mali, Cambodia, Laos, and Vietnam. This influx has contributed to debates on integration and national identity, especially concerning Muslim populations, as Islam is now the second largest religion in France.",
+    "joke": "Why was the French football team so bad? Because every time they got a corner, they opened a cafe!",
+    "capital": "Paris",
+    "religion": "Christianity (Catholicism and Islam)",
+    "image": "https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png"
+  },
+  {
+    "name": "Germany",
+    "population": 83190556,
+    "languages": ["German"],
+    "historySummary": "Germany is one of the most influential countries in the European Union. It played a central role in the reunification of East and West Germany in 1990.",
+    "joke": "Why don't Germans play hide and seek? Because good luck hiding when your name is called!",
+    "capital": "Berlin",
+    "religion": "Christianity (Protestantism and Catholicism)",
+    "image": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png"
+  },
+  {
+    "name": "Greece",
+    "population": 10724599,
+    "languages": ["Greek"],
+    "historySummary": "Greece has faced economic challenges in recent years, leading to bailout agreements with the EU and IMF. It has been working on economic reforms and stability.",
+    "joke": "Why did the Greek mathematician go broke? Because he couldn't find a sine of financial success!",
+    "capital": "Athens",
+    "religion": "Christianity (Orthodox)",
+    "image": "https://www.countryflags.com/wp-content/uploads/greece-flag-png-large.png"
+  },
+  {
+    "name": "Hungary",
+    "population": 9778371,
+    "languages": ["Hungarian"],
+    "historySummary": "Hungary has been led by Prime Minister Viktor Orbán, known for his controversial policies. It has faced EU scrutiny over issues related to democracy and the rule of law.",
+    "joke": "Why did the Hungarian chef open a restaurant on the moon? Because he wanted to serve heavenly goulash!",
+    "capital": "Budapest",
+    "religion": "Christianity (Catholicism and Protestantism)",
+    "image": "https://www.countryflags.com/wp-content/uploads/hungary-flag-png-large.png"
+  },
+  {
+    "name": "Iceland",
+    "population": 356991,
+    "languages": ["Icelandic"],
+    "historySummary": "Iceland faced a severe economic crisis in 2008 but has since recovered. It has considered EU membership but withdrew its application in 2015.",
+    "joke": "Why did the Icelander bring a ladder to the bar? Because he heard the drinks were on the house!",
+    "capital": "Reykjavik",
+    "religion": "Lutheran Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/iceland-flag-png-large.png"
+  },
+  {
+    "name": "Ireland",
+    "population": 4982900,
+    "languages": ["Irish", "English"],
+    "historySummary": "Ireland experienced rapid economic growth in the 1990s, known as the Celtic Tiger. It has been an EU member since 1973.",
+    "joke": "Why did the Irishman bring a pencil to the bar? Because he wanted to draw his own Guinness!",
+    "capital": "Dublin",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/ireland-flag-png-large.png"
+  },
+  {
+    "name": "Italy",
+    "population": 60340328,
+    "languages": ["Italian"],
+    "historySummary": "Italy has faced political instability and economic challenges. It is known for its rich cultural heritage and contributions to art, fashion, and cuisine.",
+    "joke": "Why did the Italian chef go broke? Because he pasta point of no return!",
+    "capital": "Rome",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png"
+  },
+  {
+    "name": "Kazakhstan",
+    "population": 18776707,
+    "languages": ["Kazakh", "Russian"],
+    "historySummary": "Kazakhstan is a transcontinental country spanning both Europe and Asia. It has abundant natural resources and has been working on economic diversification.",
+    "joke": "Why did the Kazakh programmer get a promotion? Because he had a byte-sized idea!",
+    "capital": "Nur-Sultan",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/kazakhstan-flag-png-large.png"
+  },
+  {
+    "name": "Kosovo",
+    "population": 1795666,
+    "languages": ["Albanian", "Serbian"],
+    "historySummary": "Kosovo declared independence from Serbia in 2008. Its sovereignty is recognized by some countries but not by others, leading to ongoing international debates.",
+    "joke": "Why did the computer visit Kosovo? To find its lost 'K'!",
+    "capital": "Pristina",
+    "religion": "Islam (predominantly Sunni and a significant Christian minority)",
+    "image": "https://www.countryflags.com/wp-content/uploads/kosovo-flag-png-large.png"
+  },
+  {
+    "name": "Latvia",
+    "population": 1910400,
+    "languages": ["Latvian"],
+    "historySummary": "Latvia regained independence in 1991 following the breakup of the Soviet Union. It has since joined the European Union and NATO.",
+    "joke": "Why don't Latvians play hide and seek? Because good luck hiding when your name is called in Latvian!",
+    "capital": "Riga",
+    "religion": "Lutheran Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/latvia-flag-png-large.png"
+  },
+  {
+    "name": "Liechtenstein",
+    "population": 38128,
+    "languages": ["German"],
+    "historySummary": "Liechtenstein is a small European microstate known for its financial services sector. It has close ties to Switzerland and the European Economic Area.",
+    "joke": "Why do Liechtensteiners always carry a ladder? Because they want to go to the next level!",
+    "capital": "Vaduz",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/liechtenstein-flag-png-large.png"
+  },
+  {
+    "name": "Lithuania",
+    "population": 2790444,
+    "languages": ["Lithuanian"],
+    "historySummary": "Lithuania regained independence in 1990 and has since joined the European Union and NATO. It has worked on modernizing its economy and infrastructure.",
+    "joke": "Why did the Lithuanian chef become a gardener? Because he wanted to grow his own 'root' vegetables!",
+    "capital": "Vilnius",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/lithuania-flag-png-large.png"
+  },
+  {
+    "name": "Luxembourg",
+    "population": 613894,
+    "languages": ["Luxembourgish", "French", "German"],
+    "historySummary": "Luxembourg is a small but wealthy European country and a founding member of the European Union. It is known for its financial services sector.",
+    "joke": "Why did the Luxembourgish banker go to the doctor? Because he had too much 'interest' in his health!",
+    "capital": "Luxembourg City",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/luxembourg-flag-png-large.png"
+  },
+  {
+    "name": "Malta",
+    "population": 493559,
+    "languages": ["Maltese", "English"],
+    "historySummary": "Malta has a rich history and joined the European Union in 2004. It is known for its Mediterranean culture and tourism.",
+    "joke": "Why did the computer move to Malta? Because it wanted to 'byte' by the sea!",
+    "capital": "Valletta",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/malta-flag-png-large.png"
+  },
+  {
+    "name": "Moldova",
+    "population": 2681735,
+    "languages": ["Moldovan", "Russian", "Gagauz"],
+    "historySummary": "Moldova is a former Soviet republic that has faced political and economic challenges. It is working on resolving the Transnistria conflict.",
+    "joke": "Why did the Moldovan mathematician go broke? Because he couldn't find the right 'formula' for success!",
+    "capital": "Chisinau",
+    "religion": "Orthodox Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/moldova-flag-png-large.png"
+  },
+  {
+    "name": "Monaco",
+    "population": 38695,
+    "languages": ["French"],
+    "historySummary": "Monaco is a tiny European microstate known for its luxury and tourism. It has close ties to France and the European Economic Area.",
+    "capital": "Monaco",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/monaco-flag-png-large.png",
+    "joke": "Why did Monaco bring a map to the bar? Because it couldn't decide where to sit!"
+  },
+  {
+    "name": "Montenegro",
+    "population": 620029,
+    "languages": ["Montenegrin", "Serbian", "Bosnian", "Albanian", "Croatian"],
+    "historySummary": "Montenegro declared independence from Serbia in 2006. It has been working on its EU integration and economic development.",
+    "capital": "Podgorica",
+    "religion": "Serbian Orthodox Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/montenegro-flag-png-large.png",
+    "joke": "Why did Montenegro bring a map to the bar? Because it couldn't decide where to sit!"
+  },
+  {
+    "name": "Netherlands",
+    "population": 17445781,
+    "languages": ["Dutch"],
+    "historySummary": "The Netherlands is known for its strong economy and maritime history. It is a founding member of the European Union.",
+    "capital": "Amsterdam",
+    "religion": "Mainly irreligious or Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png",
+    "joke": "Why did the Dutch cyclist bring a ladder to the bar? Because he wanted to get to the high spirits!"
+  },
+  {
+    "name": "North Macedonia",
+    "population": 2077132,
+    "languages": ["Macedonian", "Albanian"],
+    "historySummary": "North Macedonia resolved a long-standing name dispute with Greece and became an EU candidate country. It has been working on reforms and reconciliation.",
+    "capital": "Skopje",
+    "religion": "Macedonian Orthodox Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/macedonia-flag-png-large.png",
+    "joke": "Why did North Macedonia apply to join the bar? Because it wanted to be a part of the 'happy hour'!"
+  },
+  {
+    "name": "Norway",
+    "population": 5353363,
+    "languages": ["Norwegian"],
+    "historySummary": "Norway is not an EU member but has close ties to the EU through the European Free Trade Association. It is known for its natural beauty and oil wealth.",
+    "capital": "Oslo",
+    "religion": "Lutheran Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/norway-flag-png-large.png",
+    "joke": "Why did the Norwegian bring a ladder to the bar? Because he heard the view from the top was 'fjord-tastic'!"
+  },
+  {
+    "name": "Poland",
+    "population": 38386000,
+    "languages": ["Polish"],
+    "historySummary": "Poland has undergone significant political and economic transformations since the fall of communism. It is a member of the European Union and NATO.",
+    "capital": "Warsaw",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png",
+    "joke": "Why did the Polish chef open a restaurant? Because he wanted to 'Pierogi' people with delicious food!"
+  },
+  {
+    "name": "Portugal",
+    "population": 10295909,
+    "languages": ["Portuguese"],
+    "historySummary": "Portugal is known for its maritime history and exploration. It has faced economic challenges but has received EU support for recovery.",
+    "capital": "Lisbon",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/portugal-flag-png-large.png",
+    "joke": "Why did the Portuguese bring a soccer ball to the bar? Because they wanted to have a 'ball' while watching the game!"
+  },
+  {
+    "name": "Romania",
+    "population": 19317984,
+    "languages": ["Romanian"],
+    "historySummary": "Romania has made progress in its EU integration efforts. It is known for its rich folklore and diverse landscapes.",
+    "capital": "Bucharest",
+    "religion": "Eastern Orthodox Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png",
+    "joke": "Why did the Romanian musician start a band? Because he wanted to 'count' the beats!"
+  },
+  {
+    "name": "Russia",
+    "population": 146599183,
+    "languages": ["Russian"],
+    "historySummary": "Russia is the largest country in Europe by land area and a significant global player. It has faced international tensions and sanctions in recent years.",
+    "capital": "Moscow",
+    "religion": "Russian Orthodox Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png",
+    "joke": "Why did the Russian mathematician get a promotion? Because he solved the 'Putin' problem!"
+  },
+  {
+    "name": "San Marino",
+    "population": 33931,
+    "languages": ["Italian"],
+    "historySummary": "San Marino is a small European microstate known for its historic architecture. It has close ties to Italy and the European Economic Area.",
+    "capital": "San Marino",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/san-marino-flag-png-large.png",
+    "joke": "Why did San Marino become a comedian? Because it wanted to 'crack' jokes in its tiny state!"
+  },
+  {
+    "name": "Serbia",
+    "population": 7057412,
+    "languages": ["Serbian"],
+    "historySummary": "Serbia has been working on its EU accession process. It has faced challenges related to Kosovo and regional stability.",
+    "capital": "Belgrade",
+    "religion": "Serbian Orthodox Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/serbia-flag-png-large.png",
+    "joke": "Why did the Serbian inventor create a new gadget? Because he wanted to 'wirelessly' connect with the future!"
+  },
+  {
+    "name": "Slovakia",
+    "population": 5456362,
+    "languages": ["Slovak"],
+    "historySummary": "Slovakia became an independent country after the peaceful dissolution of Czechoslovakia in 1993. It has joined the European Union and NATO.",
+    "capital": "Bratislava",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png",
+    "joke": "Why did the Slovakian bring a ladder to the bar? Because he wanted to 'ascend' to new heights of fun!"
+  },
+  {
+    "name": "Slovenia",
+    "population": 2100126,
+    "languages": ["Slovene"],
+    "historySummary": "Slovenia is a small European country known for its natural beauty. It has been a member of the European Union since 2004.",
+    "capital": "Ljubljana",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/slovenia-flag-png-large.png",
+    "joke": "Why did the Slovenian start a comedy club? Because they wanted to 'laugh-venia'!"
+  },
+  {
+    "name": "Spain",
+    "population": 46733038,
+    "languages": ["Spanish", "Catalan", "Galician", "Basque", "Occitan"],
+    "historySummary": "Spain has faced challenges related to regional autonomy and Catalonia's push for independence. It is known for its diverse cultures and languages.",
+    "capital": "Madrid",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png",
+    "joke": "Why did the Spanish bullfighter become a gardener? Because he wanted to 'grow' his own roses!"
+  },
+  {
+    "name": "Sweden",
+    "population": 10230185,
+    "languages": ["Swedish"],
+    "historySummary": "Sweden is known for its social welfare system and neutrality policy. It has been a member of the European Union since 1995.",
+    "capital": "Stockholm",
+    "religion": "Lutheran Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png",
+    "joke": "Why did the Swedish chef become a gardener? Because they wanted to 'Swede' up their life with vegetables!"
+  },
+  {
+    "name": "Switzerland",
+    "population": 8570146,
+    "languages": ["German", "French", "Italian", "Romansh"],
+    "historySummary": "Switzerland is not an EU member but has strong economic ties with the EU. It is known for its banking sector and neutrality.",
+    "capital": "Bern",
+    "religion": "Christianity (predominantly Roman Catholic and Protestant)",
+    "image": "https://www.countryflags.com/wp-content/uploads/switzerland-flag-png-large.png",
+    "joke": "Why did the Swiss banker bring a calculator to the bar? Because they wanted to 'count' their drinks precisely!"
+  },
+  {
+    "name": "Ukraine",
+    "population": 44385155,
+    "languages": ["Ukrainian", "Russian"],
+    "historySummary": "Ukraine has faced political turmoil and conflict, particularly in Eastern Ukraine. It has been working on reforms and has aspirations for EU membership.",
+    "capital": "Kyiv",
+    "religion": "Eastern Orthodoxy (predominantly Ukrainian Orthodox Church)",
+    "image": "https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large.png",
+    "joke": "Why did the Ukrainian chef open a bakery? Because they wanted to 'doughminate' the pastry world!"
+  },
+  {
+    "name": "United Kingdom",
+    "population": 66796807,
+    "languages": ["English"],
+    "historySummary": "The United Kingdom voted to leave the European Union in 2016, leading to the Brexit process. It has since forged its path in international relations.",
+    "capital": "London",
+    "religion": "Mainly irreligious or Christian denominations",
+    "image": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
+    "joke": "Why did the British inventor create a time machine? Because they wanted to 'tea-visit' the past and future!"
+  },
+  {
+    "name": "Vatican City",
+    "population": 799,
+    "languages": ["Italian"],
+    "historySummary": "Vatican City is the smallest independent state in the world, centered around the Vatican City. It is the spiritual and administrative center of the Roman Catholic Church.",
+    "capital": "Vatican City",
+    "religion": "Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/vatican-city-flag-png-large.png"
+  }
+]

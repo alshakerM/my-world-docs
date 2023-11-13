@@ -1,0 +1,14 @@
+.heroSection {
+  display: flex;
+}
+
+.heroText {
+  font-size: 27px;
+  color: whitesmoke;
+}
+
+.earthImage {
+  width: 250px;
+  height: fit-content;
+  border-radius: 10px;
+}

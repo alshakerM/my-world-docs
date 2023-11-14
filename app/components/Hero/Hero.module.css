@@ -1,5 +1,7 @@
 .heroSection {
   display: flex;
+  justify-content: center;
+  align-self: start;
 }
 
 .heroText {

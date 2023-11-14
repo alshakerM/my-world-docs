@@ -1,5 +1,5 @@
 import styles from './Hero.module.css';
-import EuImage from '../../../public/logo.png';
+import logo from '../../../public/logo.png';
 export const Hero = () => (
   <section className={styles.heroSection}>
     <p className={styles.heroText}>
@@ -10,10 +10,6 @@ export const Hero = () => (
       fascinating facts, cultural insights, and historical narratives about the
       world countries.
     </p>
-    <img
-      src={EuImage}
-      alt="Planet Earth with Eu"
-      className={styles.earthImage}
-    />
+    <img src={logo} alt="Website logo" className={styles.earthImage} />
   </section>
 );

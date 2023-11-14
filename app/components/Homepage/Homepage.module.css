@@ -1,8 +1,12 @@
 .mainContent {
   padding: 27px;
+
+  color: black;
+}
+
+.cardContainer {
   display: flex;
   gap: 18px;
   flex-wrap: wrap;
   align-items: flex-start;
-  color: black;
 }

@@ -4,10 +4,11 @@ import {
   Links,
   LiveReload,
   Meta,
+  Outlet,
   Scripts,
   ScrollRestoration,
 } from '@remix-run/react';
-import { Homepage } from './components/Homepage/Homepage';
+
 import styles from './root.module.css';
 
 export const links: LinksFunction = () => [
@@ -23,9 +24,9 @@ export default function App() {
         <Links />
       </head>
       <body className={styles.body}>
-        <Homepage />
         <ScrollRestoration />
         <Scripts />
+        <Outlet />
         <LiveReload />
       </body>
     </html>

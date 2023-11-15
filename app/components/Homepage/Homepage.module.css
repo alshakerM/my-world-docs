@@ -1,8 +1,19 @@
 .mainContent {
-  padding: 27px;
+  padding: 3%;
+  /* header and padding sizes */
+  height: calc(100vh - 54px);
   display: flex;
-  gap: 18px;
-  flex-wrap: wrap;
-  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url('../../../public/eu-space.jpg');
+  background-size: cover;
+  background-color: whitesmoke;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+
+  background-attachment: fixed;
+}
+
+.mainContent * {
   color: black;
 }

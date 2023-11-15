@@ -7,7 +7,7 @@ export const Header = () => {
         <img src={sideLogo} className={styles.sideLogo} alt="Website logo" />
         <h3 className={styles.websiteName}>World Culture Unveiled</h3>
       </section>
-      <h3 className={styles.poweredByAi}>Powered By chatGPT</h3>
+      <h3 className={styles.poweredByAi}>Powered By ChatGPT</h3>
     </header>
   );
 };

@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
 
 .body {
-  font-family: 'Roboto', sans-serif;
-  background-image: url('../public/eu-space.jpg');
-  backdrop-filter: blur(3px);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   color: white;
+  margin: 0;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
 }

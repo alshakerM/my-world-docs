@@ -1,4 +1,5 @@
 import type { MetaFunction } from '@remix-run/node';
+import { Homepage } from '~/components/Homepage/Homepage';
 
 export const meta: MetaFunction = () => {
   return [
@@ -8,9 +9,5 @@ export const meta: MetaFunction = () => {
 };
 
 export default function Index() {
-  return (
-    <div
-      style={{ fontFamily: 'system-ui, sans-serif', lineHeight: '1.8' }}
-    ></div>
-  );
+  return <Homepage />;
 }

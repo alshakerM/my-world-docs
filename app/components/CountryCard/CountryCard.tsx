@@ -1,23 +1,46 @@
-import React from 'react';
+import { WorldMap } from '../WorldMap/WorldMap';
 import styles from './CountryCard.module.css';
+type CountryType = {
+  name: string;
+  population: number;
+  languages: string[];
+  historySummary: string;
+  joke: string;
+  capital: string;
+  religion: string;
+  image: string;
+};
 
-export const CountryCard = ({ country }: any) => {
+export const CountryCard = ({ country }: { country: CountryType }) => {
   const FormattedNumber = formatNumber(country.population);
   return (
     <div className={styles.card}>
-      <img
-        className={styles.cardImage}
-        src={country.image}
-        alt={`${country.name} flag`}
-      />
+      <WorldMap country={country.name} />
+      <section className={styles.imgAndTitleSection}>
+        <img
+          className={styles.cardImage}
+          src={country.image}
+          alt={`${country.name} flag`}
+        />
+        <section className={styles.titleTextSection}>
+          <h2>{country.name}</h2>
+          <p> {country.capital}.</p>
+        </section>
+      </section>
       <section className={styles.infoSection}>
-        <h2>{country.name}</h2>
-        <p>Capital: {country.capital}</p>
-        <p>Population: {FormattedNumber}</p>
-        <p>Spoken languages: {country.languages}</p>
-        <p>Religion: {country.religion}</p>
-        <p>{country.historySummary}</p>
-        <p>Fun fact: {country.joke}</p>
+        <p>
+          <strong>Population</strong> {FormattedNumber}.
+        </p>
+        <p>
+          <strong>Spoken languages</strong> {country.languages.join(', ')}.
+        </p>
+        <p>
+          <strong>Religion</strong> {country.religion}.
+        </p>
+        <p>{country.historySummary}.</p>
+        <p>
+          <strong>Fun part</strong> {country.joke}.
+        </p>
       </section>
     </div>
   );

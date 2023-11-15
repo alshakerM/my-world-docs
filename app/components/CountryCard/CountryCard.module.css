@@ -1,11 +1,11 @@
 .card {
-  gap: 18px;
-  align-items: center;
   border-radius: 4px;
-  max-width: 300px;
-  background-color: whitesmoke;
-  box-shadow: 2px 12px 15px -2px rgba(0, 0, 0, 0.36);
+  color: black;
   height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin: 0 auto;
 }
 .cardImage {
   max-width: 300px;
@@ -14,4 +14,41 @@
 
 .infoSection {
   padding: 18px;
+}
+
+.imgAndTitleSection {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.imgAndTitleSection h2 {
+  font-size: 5em;
+  margin: 0;
+}
+.imgAndTitleSection p {
+  font-size: 3em;
+  margin: 0;
+}
+
+.infoSection strong {
+  font-size: 18px;
+}
+
+@media screen and (max-width: 735px) {
+  .imgAndTitleSection {
+    flex-direction: column;
+  }
+  .titleTextSection h2 {
+    font-size: 3em;
+  }
+
+  .titleTextSection {
+    display: flex;
+    flex-direction: column;
+  }
+  .titleTextSection p {
+    font-size: 2em;
+    align-self: center;
+  }
 }

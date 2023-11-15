@@ -1,0 +1,8 @@
+.mainContent {
+  padding: 27px;
+  margin-top: 55px;
+  min-height: calc(100vh - 54px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

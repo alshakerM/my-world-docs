@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Benin",
+    "population": 12123200,
+    "languages": ["French"],
+    "historySummary": "Benin is known for its history of the Dahomey Kingdom and its vibrant culture, including Voodoo traditions.",
+    "capital": "Porto-Novo (official), Cotonou (economic)",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "joke": "Why did the Beninese chef open a restaurant? Because they wanted to 'spice' up the flavors of fufu and sauce gombo!"
+  },
+  {
+    "name": "Chad",
+    "population": 14497000,
+    "languages": ["French", "Arabic"],
+    "historySummary": "Chad is known for its diverse landscapes, including the Sahara Desert and Lake Chad. It has faced conflicts and political instability.",
+    "capital": "N'Djamena",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/chad-flag-png-large.png",
+    "joke": "Why did the Chadian chef open a restaurant? Because they wanted to 'grill' up some delicious boule and sauce arachide!"
+  },
+  {
+    "name": "Nigeria",
+    "population": 206139587,
+    "languages": ["English"],
+    "historySummary": "Nigeria is the most populous country in Africa and has a diverse cultural heritage. It gained independence from British colonial rule in 1960.",
+    "capital": "Abuja",
+    "religion": "Islam and Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/nigeria-flag-png-large.png",
+    "joke": "Why did the Nigerian musician start a band? Because they wanted to 'beat' the rhythm of Africa!"
+  },
+  {
+    "name": "Niger",
+    "population": 24431412,
+    "languages": ["French"],
+    "historySummary": "Niger is known for its vast deserts, including the Sahara, and its nomadic culture.",
+    "capital": "Niamey",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/niger-flag-png-large.png",
+    "joke": "Why did the Nigerien artist become a comedian? Because they could 'sand' some hilarious desert scenes!"
+  },
+  {
+    "name": "Ethiopia",
+    "population": 114963588,
+    "languages": ["Amharic"],
+    "historySummary": "Ethiopia is one of the world's oldest civilizations, known for its ancient history, unique script, and the legend of the Ark of the Covenant.",
+    "capital": "Addis Ababa",
+    "religion": "Orthodox Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/ethiopia-flag-png-large.png",
+    "joke": "Why did the Ethiopian chef open a restaurant? Because they wanted to 'spice' things up with injera and doro wat!"
+  },
+  {
+    "name": "Egypt",
+    "population": 104258327,
+    "languages": ["Arabic"],
+    "historySummary": "Egypt is known for its ancient civilization and iconic landmarks like the pyramids. It has a rich history dating back thousands of years.",
+    "capital": "Cairo",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/egypt-flag-png-large.png",
+    "joke": "Why did the Egyptian pharaoh become a comedian? Because they could 'mummy'-up some great jokes from the past!"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "population": 85026000,
+    "languages": ["French", "Lingala", "Swahili"],
+    "historySummary": "The DRC is the largest country in sub-Saharan Africa and has a complex history marked by conflicts and resource wealth.",
+    "capital": "Kinshasa",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/congo-flag-png-large.png",
+    "joke": "Why did the Congolese musician start a band? Because they wanted to 'beat' the rhythm of the rainforest!"
+  },
+  {
+    "name": "South Africa",
+    "population": 59308690,
+    "languages": ["Afrikaans", "English", "Zulu", "Xhosa"],
+    "historySummary": "South Africa has a complex history, including apartheid, which ended in 1994. It is known for its diverse culture and stunning landscapes.",
+    "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+    "religion": "Christianity, Islam, Hinduism, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/south-africa-flag-png-large.png",
+    "joke": "Why did the South African chef open a restaurant? Because they wanted to 'sausage' the flavors of the rainbow nation!"
+  },
+  {
+    "name": "Tanzania",
+    "population": 59734218,
+    "languages": ["Swahili", "English"],
+    "historySummary": "Tanzania is known for its wildlife and the iconic Mount Kilimanjaro. It is a diverse country with over 120 ethnic groups.",
+    "capital": "Dodoma (official), Dar es Salaam (largest city)",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/tanzania-flag-png-large.png",
+    "joke": "Why did the Tanzanian athlete become a chef? Because they wanted to 'sprint' to the kitchen and make some delicious ugali!"
+  },
+  {
+    "name": "Kenya",
+    "population": 53771296,
+    "languages": ["Swahili", "English"],
+    "historySummary": "Kenya is known for its stunning wildlife and landscapes. It gained independence from British colonial rule in 1963.",
+    "capital": "Nairobi",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/kenya-flag-png-large.png",
+    "joke": "Why did the Kenyan runner become a chef? Because they wanted to 'sprint' to the kitchen and serve up some fast food!"
+  },
+  {
+    "name": "Uganda",
+    "population": 45741007,
+    "languages": ["English", "Swahili"],
+    "historySummary": "Uganda is known as the 'Pearl of Africa' and is famous for its wildlife, including gorillas in the Bwindi Impenetrable Forest.",
+    "capital": "Kampala",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/uganda-flag-png-large.png",
+    "joke": "Why did the Ugandan chef open a restaurant? Because they wanted to 'grill' some delicious tilapia by the Nile!"
+  },
+  {
+    "name": "Algeria",
+    "population": 40400000,
+    "languages": ["Arabic", "Berber"],
+    "historySummary": "Algeria is the largest country in Africa and played a significant role in the struggle for independence from French colonial rule.",
+    "capital": "Algiers",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/algeria-flag-png-large.png",
+    "joke": "Why did the Algerian artist become a comedian? Because they could 'canvas' some hilarious sketches!"
+  },
+  {
+    "name": "Sudan",
+    "population": 43849260,
+    "languages": ["Arabic", "English"],
+    "historySummary": "Sudan has a rich history, including ancient civilizations like Nubia and Kush. It has faced conflicts and division in recent years.",
+    "capital": "Khartoum",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/sudan-flag-png-large.png",
+    "joke": "Why did the Sudanese chef open a restaurant? Because they wanted to 'spice' up the flavors of the Nile!"
+  },
+  {
+    "name": "Morocco",
+    "population": 36910560,
+    "languages": ["Arabic", "Amazigh"],
+    "historySummary": "Morocco has a rich history influenced by Berber, Arab, and European cultures. It is known for its diverse landscapes and cuisine.",
+    "capital": "Rabat",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/morocco-flag-png-large.png",
+    "joke": "Why did the Moroccan chef open a restaurant? Because they wanted to 'tagine' the taste buds of their guests!"
+  },
+  {
+    "name": "Angola",
+    "population": 25868000,
+    "languages": ["Portuguese"],
+    "historySummary": "Angola gained independence from Portuguese colonial rule in 1975. It is known for its diverse culture and natural resources.",
+    "capital": "Luanda",
+    "religion": "Christianity, indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/angola-flag-png-large.png",
+    "joke": "Why did the Angolan musician start a band? Because they wanted to 'beat' the rhythm of Africa!"
+  },
+  {
+    "name": "Mozambique",
+    "population": 30962330,
+    "languages": ["Portuguese"],
+    "historySummary": "Mozambique gained independence from Portuguese colonial rule in 1975. It is known for its beautiful coastline and wildlife.",
+    "capital": "Maputo",
+    "religion": "Christianity, indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/mozambique-flag-png-large.png",
+    "joke": "Why did the Mozambican chef open a restaurant? Because they wanted to 'spice' up the flavors of peri-peri chicken!"
+  },
+  {
+    "name": "Ghana",
+    "population": 30280811,
+    "languages": ["English"],
+    "historySummary": "Ghana is known for its role in the transatlantic slave trade and as the first African nation to gain independence from colonial rule in 1957.",
+    "capital": "Accra",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/ghana-flag-png-large.png",
+    "joke": "Why did the Ghanaian musician start a band? Because they wanted to 'beat' the rhythm of the Ashanti drums!"
+  },
+  {
+    "name": "Cameroon",
+    "population": 22709892,
+    "languages": ["English", "French"],
+    "historySummary": "Cameroon is known for its diverse culture and landscapes, from rainforests to savannas. It gained independence in 1960.",
+    "capital": "Yaoundé",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/cameroon-flag-png-large.png",
+    "joke": "Why did the Cameroonian chef open a restaurant? Because they wanted to 'grill' some delicious Ndolé!"
+  },
+  {
+    "name": "Côte d'Ivoire (Ivory Coast)",
+    "population": 26268209,
+    "languages": ["French"],
+    "historySummary": "Côte d'Ivoire is known for its cocoa production and cultural diversity. It gained independence from French colonial rule in 1960.",
+    "capital": "Yamoussoukro (official), Abidjan (economic)",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/ivory-coast-flag-png-large.png",
+    "joke": "Why did the Ivorian artist become a comedian? Because they could 'paint' some hilarious scenes!"
+  },
+  {
+    "name": "Madagascar",
+    "population": 26262368,
+    "languages": ["Malagasy", "French"],
+    "historySummary": "Madagascar is known for its unique wildlife and biodiversity, with many species found nowhere else on Earth.",
+    "capital": "Antananarivo",
+    "religion": "Christianity, indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/madagascar-flag-png-large.png",
+    "joke": "Why did the Malagasy chef open a restaurant? Because they wanted to 'lemur' an unforgettable dining experience!"
+  },
+  {
+    "name": "Zimbabwe",
+    "population": 15159624,
+    "languages": ["English", "Shona", "Sindebele"],
+    "historySummary": "Zimbabwe is known for its ancient civilizations like Great Zimbabwe and its struggle for independence from British colonial rule.",
+    "capital": "Harare",
+    "religion": "Christianity, indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/zimbabwe-flag-png-large.png",
+    "joke": "Why did the Zimbabwean musician start a band? Because they wanted to 'beat' the rhythm of Victoria Falls!"
+  },
+  {
+    "name": "Tunisia",
+    "population": 11722038,
+    "languages": ["Arabic", "French"],
+    "historySummary": "Tunisia is known as the birthplace of the Arab Spring and has a rich history influenced by Berber, Arab, and Mediterranean cultures.",
+    "capital": "Tunis",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/tunisia-flag-png-large.png",
+    "joke": "Why did the Tunisian chef open a restaurant? Because they wanted to 'spice' up the flavors of couscous and brik!"
+  },
+  {
+    "name": "Mauritania",
+    "population": 4525696,
+    "languages": ["Arabic"],
+    "historySummary": "Mauritania is known for its vast deserts and nomadic culture. It gained independence from French colonial rule in 1960.",
+    "capital": "Nouakchott",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/mauritania-flag-png-large.png",
+    "joke": "Why did the Mauritanian artist become a comedian? Because they could 'sand' some hilarious sketches!"
+  },
+  {
+    "name": "Eswatini (Swaziland)",
+    "population": 1160164,
+    "languages": ["Swazi", "English"],
+    "historySummary": "Eswatini is known for its cultural festivals and monarchy. It gained independence from British colonial rule in 1968.",
+    "capital": "Mbabane",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/eswatini-flag-png-large.png",
+    "joke": "Why did the Eswatini artist become a comedian? Because they could 'swing' some hilarious tales of the Swazi kingdom!"
+  },
+  {
+    "name": "Lesotho",
+    "population": 2142249,
+    "languages": ["Sesotho", "English"],
+    "historySummary": "Lesotho is a landlocked country entirely surrounded by South Africa. It has a unique geography and culture.",
+    "capital": "Maseru",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/lesotho-flag-png-large.png",
+    "joke": "Why did the Lesotho musician start a band? Because they wanted to 'beat' the rhythm of the Drakensberg Mountains!"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "population": 1402985,
+    "languages": ["Spanish", "French", "Portuguese"],
+    "historySummary": "Equatorial Guinea is one of Africa's smallest countries and is known for its oil production.",
+    "capital": "Malabo",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/equatorial-guinea-flag-png-large.png",
+    "joke": "Why did the Equatorial Guinean artist become a comedian? Because they could 'oil' up some funny sketches!"
+  },
+  {
+    "name": "Djibouti",
+    "population": 988000,
+    "languages": ["French", "Arabic"],
+    "historySummary": "Djibouti is a small country located in the Horn of Africa, known for its strategic location along the Bab-el-Mandeb strait.",
+    "capital": "Djibouti City",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/djibouti-flag-png-large.png",
+    "joke": "Why did the Djiboutian chef open a restaurant? Because they wanted to 'spice' up the flavors of Somali and Yemeni cuisine!"
+  },
+  {
+    "name": "Comoros",
+    "population": 806153,
+    "languages": ["Comorian", "Arabic", "French"],
+    "historySummary": "Comoros is an island nation in the Indian Ocean known for its volcanic landscapes and unique culture.",
+    "capital": "Moroni",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/comoros-flag-png-large.png",
+    "joke": "Why did the Comorian artist become a comedian? Because they could 'volcano' some hilarious tales of the islands!"
+  },
+  {
+    "name": "Mauritius",
+    "population": 1262879,
+    "languages": ["English", "French", "Mauritian Creole"],
+    "historySummary": "Mauritius is an island nation in the Indian Ocean known for its stunning beaches, diverse culture, and sugar cane plantations.",
+    "capital": "Port Louis",
+    "religion": "Hinduism, Christianity, Islam, and Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/mauritius-flag-png-large.png",
+    "joke": "Why did the Mauritian chef open a restaurant? Because they wanted to 'spice' up the flavors of Mauritian cuisine!"
+  },
+  {
+    "name": "Malawi",
+    "population": 19063726,
+    "languages": ["English", "Chichewa"],
+    "historySummary": "Malawi is known for its beautiful Lake Malawi and diverse wildlife. It gained independence from British colonial rule in 1964.",
+    "capital": "Lilongwe",
+    "religion": "Christianity, Islam, and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/malawi-flag-png-large.png",
+    "joke": "Why did the Malawian chef open a restaurant? Because they wanted to 'spice' up the flavors of nsima and chambo!"
+  },
+  {
+    "name": "Eritrea",
+    "population": 3497117,
+    "languages": ["Tigrinya", "Arabic", "English"],
+    "historySummary": "Eritrea gained independence from Ethiopia in 1991. It is known for its diverse ethnic groups and rugged landscapes.",
+    "capital": "Asmara",
+    "religion": "Christianity and Islam",
+    "image": "https://www.countryflags.com/wp-content/uploads/eritrea-flag-png-large.png",
+    "joke": "Why did the Eritrean artist become a comedian? Because they could 'script' some hilarious scenes!"
+  },
+  {
+    "name": "Gambia",
+    "population": 2347706,
+    "languages": ["English", "Mandinka", "Wolof"],
+    "historySummary": "Gambia is the smallest country on the African mainland and is known for its river and diverse wildlife.",
+    "capital": "Banjul",
+    "religion": "Islam and Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/gambia-flag-png-large.png",
+    "joke": "Why did the Gambian chef open a restaurant? Because they wanted to 'grill' up some delicious Benachin rice!"
+  },
+  {
+    "name": "Gabon",
+    "population": 2225734,
+    "languages": ["French"],
+    "historySummary": "Gabon is known for its rainforests, wildlife, and oil production. It gained independence from French colonial rule in 1960.",
+    "capital": "Libreville",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/gabon-flag-png-large.png",
+    "joke": "Why did the Gabonese artist become a comedian? Because they could 'paint' some hilarious jungle scenes!"
+  },
+  {
+    "name": "Sierra Leone",
+    "population": 7976983,
+    "languages": ["English"],
+    "historySummary": "Sierra Leone is known for its diamond mines and was once a center of the transatlantic slave trade. It has a diverse culture.",
+    "capital": "Freetown",
+    "religion": "Islam and Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/sierra-leone-flag-png-large.png",
+    "joke": "Why did the Sierra Leonean musician start a band? Because they wanted to 'beat' the rhythm of the Bintumani Mountains!"
+  },
+  {
+    "name": "Liberia",
+    "population": 5057681,
+    "languages": ["English"],
+    "historySummary": "Liberia is known for being founded by freed American slaves in the 19th century. It has a unique history and culture.",
+    "capital": "Monrovia",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/liberia-flag-png-large.png",
+    "joke": "Why did the Liberian chef open a restaurant? Because they wanted to 'grill' up some delicious pepper soup!"
+  },
+  {
+    "name": "Central African Republic",
+    "population": 4998000,
+    "languages": ["French", "Sango"],
+    "historySummary": "The Central African Republic is known for its wildlife and has faced political instability and conflict in recent years.",
+    "capital": "Bangui",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/central-african-republic-flag-png-large.png",
+    "joke": "Why did the Central African artist become a comedian? Because they could 'paint' some hilarious scenes of the savannas!"
+  },
+  {
+    "name": "Democratic Republic of Sao Tome and Principe",
+    "population": 211028,
+    "languages": ["Portuguese"],
+    "historySummary": "Sao Tome and Principe is an island nation in the Gulf of Guinea known for its cocoa production and lush rainforests.",
+    "capital": "Sao Tome",
+    "religion": "Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/sao-tome-and-principe-flag-png-large.png",
+    "joke": "Why did the Sao Tomean chef open a restaurant? Because they wanted to 'spice' up the flavors of cocoa and fish stew!"
+  },
+  {
+    "name": "Seychelles",
+    "population": 97625,
+    "languages": ["Seychellois Creole", "French", "English"],
+    "historySummary": "Seychelles is an island nation in the Indian Ocean known for its stunning beaches, coral reefs, and unique wildlife.",
+    "capital": "Victoria",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/seychelles-flag-png-large.png",
+    "joke": "Why did the Seychellois artist become a comedian? Because they could 'draw' some hilarious scenes of paradise!"
+  },
+  {
+    "name": "Senegal",
+    "population": 16743927,
+    "languages": ["French"],
+    "historySummary": "Senegal is known for its music, culture, and historical sites. It was one of the first African countries to gain independence from colonial rule.",
+    "capital": "Dakar",
+    "religion": "Islam and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/senegal-flag-png-large.png",
+    "joke": "Why did the Senegalese artist become a comedian? Because they could 'draw' some hilarious scenes of Gorée Island!"
+  },
+  {
+    "name": "Burundi",
+    "population": 11890784,
+    "languages": ["Kirundi", "French", "English"],
+    "historySummary": "Burundi is known for its hills and valleys and has faced ethnic conflict and political instability in recent years.",
+    "capital": "Bujumbura",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/burundi-flag-png-large.png",
+    "joke": "Why did the Burundian chef open a restaurant? Because they wanted to 'spice' up the flavors of matoke and isombe!"
+  },
+  {
+    "name": "Rwanda",
+    "population": 12663105,
+    "languages": ["Kinyarwanda", "French", "English"],
+    "historySummary": "Rwanda is known for its recovery from the 1994 genocide and is often called the 'Land of a Thousand Hills.'",
+    "capital": "Kigali",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/rwanda-flag-png-large.png",
+    "joke": "Why did the Rwandan musician start a band? Because they wanted to 'beat' the rhythm of Lake Kivu!"
+  },
+  {
+    "name": "Botswana",
+    "population": 2141206,
+    "languages": ["English", "Setswana"],
+    "historySummary": "Botswana is known for its stable democracy, diamond mining, and stunning landscapes, including the Okavango Delta.",
+    "capital": "Gaborone",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/botswana-flag-png-large.png",
+    "joke": "Why did the Motswana chef open a restaurant? Because they wanted to 'grill' up some delicious seswaa and pap!"
+  },
+  {
+    "name": "Western Sahara",
+    "population": 597339,
+    "languages": ["Arabic", "Spanish", "Hassaniya Arabic"],
+    "historySummary": "Western Sahara is a region with a long-standing dispute over its sovereignty. It was formerly a Spanish colony and has been the subject of conflict between Morocco and the Sahrawi Arab Democratic Republic.",
+    "capital": "El Aaiún",
+    "religion": "Islam",
+    "image": "https://www.countryflags.com/wp-content/uploads/western-sahara-flag-png-large.png"
+  },
+  {
+    "name": "Swaziland (Eswatini)",
+    "population": 1160164,
+    "languages": ["Swazi", "English"],
+    "historySummary": "Eswatini is known for its cultural festivals and monarchy. It gained independence from British colonial rule in 1968.",
+    "capital": "Mbabane",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/eswatini-flag-png-large.png",
+    "joke": "Why did the Eswatini artist become a comedian? Because they could 'swing' some hilarious tales of the Swazi kingdom!"
+  },
+  {
+    "name": "Somalia",
+    "population": 15181925,
+    "languages": ["Somali", "Arabic"],
+    "historySummary": "Somalia is known for its coastal landscapes and has faced civil conflicts and instability in recent years.",
+    "capital": "Mogadishu",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/somalia-flag-png-large.png",
+    "joke": "Why did the Somali artist become a comedian? Because they could 'sketch' some hilarious tales of the Horn of Africa!"
+  }
+]

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import styles from './SearchForm.module.css';
-import data from '../../../EU-data.json';
+import * as allData from '../../../data';
 import { useNavigate } from '@remix-run/react';
 
 type CountryType = {
@@ -25,6 +25,12 @@ function getCountryNames(countryData: CountryType) {
 }
 
 export const SearchForm = () => {
+  const data = Object.values(allData).reduce<Array<any>>(
+    (accumulator, currentValue) => {
+      return accumulator.concat(currentValue);
+    },
+    []
+  );
   const navigate = useNavigate();
   const countryArray = Object.values(data);
   const countryNames = getCountryNames(countryArray);

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "New Zealand",
+    "population": 5107100,
+    "languages": ["English", "Māori"],
+    "historySummary": "New Zealand is known for its stunning natural landscapes, including mountains, beaches, and fjords. It has a rich Māori culture and is famous for activities like hiking and rugby.",
+    "capital": "Wellington",
+    "religion": "Mainly Christianity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "joke": "Why did the kiwi bird apply for a passport? Because it wanted to see the world beyond Middle-earth!"
+  },
+  {
+    "name": "Papua New Guinea",
+    "population": 8935000,
+    "languages": [
+      "English",
+      "Tok Pisin",
+      "Hiri Motu",
+      "and numerous indigenous languages"
+    ],
+    "historySummary": "Papua New Guinea is known for its diverse indigenous cultures and languages. It is located on the eastern half of the island of New Guinea and is famous for its rich biodiversity and unique wildlife.",
+    "capital": "Port Moresby",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+    "joke": "Why did the Papua New Guinean explorer bring a map to the jungle? Because they wanted to find the treasure hidden in the tales of the Sepik River!"
+  },
+  {
+    "name": "New Caledonia",
+    "population": 285491,
+    "languages": ["French"],
+    "historySummary": "New Caledonia is a French overseas territory located in the southwest Pacific Ocean. It is known for its stunning coral reefs, lagoons, and unique flora and fauna.",
+    "capital": "Nouméa",
+    "religion": "Christianity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_New_Caledonia.svg",
+    "joke": "Why did the New Caledonian surfer bring a baguette to the beach? Because they wanted to ride the waves and have a French picnic!"
+  },
+  {
+    "name": "Fiji",
+    "population": 896464,
+    "languages": ["English", "Fijian", "Hindi"],
+    "historySummary": "Fiji is an island country in the South Pacific known for its beautiful beaches, tropical climate, and friendly locals. It was once a British colony and is now a vibrant multicultural nation.",
+    "capital": "Suva",
+    "religion": "Christianity, Hinduism, and indigenous beliefs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+    "joke": "Why did the Fijian chef become a sushi master? Because they wanted to roll with the tides of flavor in the South Pacific!"
+  },
+  {
+    "name": "Vanuatu",
+    "population": 307815,
+    "languages": ["Bislama", "English", "French"],
+    "historySummary": "Vanuatu is an island nation in the South Pacific known for its volcanic landscapes, diverse culture, and warm hospitality. It was once jointly administered by France and the United Kingdom.",
+    "capital": "Port Vila",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Vanuatu.svg",
+    "joke": "Why did the Vanuatuan adventurer climb the volcano? Because they wanted to see if it was secretly a giant cocoa volcano!"
+  },
+  {
+    "name": "Solomon Islands",
+    "population": 717180,
+    "languages": ["English", "Pijin", "indigenous languages"],
+    "historySummary": "The Solomon Islands is an archipelago in the South Pacific with a rich cultural heritage and natural beauty. It played a significant role in World War II and is known for its WWII relics.",
+    "capital": "Honiara",
+    "religion": "Christianity and indigenous beliefs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+    "joke": "Why did the Solomon Islander bring a snorkel to the library? Because they wanted to dive into the sea of knowledge!"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Afghanistan",
+    "population": 38928346,
+    "languages": ["Pashto", "Dari"],
+    "historySummary": "Afghanistan has a rich history, with ancient civilizations and a complex modern history marked by conflicts.",
+    "capital": "Kabul",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/afghanistan-flag-png-large.png",
+    "joke": "Why did the Afghan chef open a restaurant? Because they wanted to 'kabob' the competition!"
+  },
+  {
+    "name": "Armenia",
+    "population": 2963234,
+    "languages": ["Armenian"],
+    "historySummary": "Armenia is one of the world's oldest countries, with a rich cultural heritage and a history of conflict with neighboring countries.",
+    "capital": "Yerevan",
+    "religion": "Christianity (Armenian Apostolic Church)",
+    "image": "https://www.countryflags.com/wp-content/uploads/armenia-flag-png-large.png",
+    "joke": "Why did the Armenian musician start a band? Because they wanted to 'beat' the rhythm of Mount Ararat!"
+  },
+  {
+    "name": "Azerbaijan",
+    "population": 10139177,
+    "languages": ["Azerbaijani"],
+    "historySummary": "Azerbaijan is known for its rich oil reserves and a history marked by conflicts, including the Nagorno-Karabakh conflict.",
+    "capital": "Baku",
+    "religion": "Islam (predominantly Shia)",
+    "image": "https://www.countryflags.com/wp-content/uploads/azerbaijan-flag-png-large.png",
+    "joke": "Why did the Azerbaijani chef open a restaurant? Because they wanted to 'grill' up some delicious kebabs!"
+  },
+  {
+    "name": "Bahrain",
+    "population": 1701575,
+    "languages": ["Arabic"],
+    "historySummary": "Bahrain is known for its rich history, including the ancient Dilmun civilization, and as a modern financial hub.",
+    "capital": "Manama",
+    "religion": "Islam (predominantly Shia)",
+    "image": "https://www.countryflags.com/wp-content/uploads/bahrain-flag-png-large.png",
+    "joke": "Why did the Bahraini artist become a comedian? Because they could 'sketch' some hilarious tales of the pearl divers!"
+  },
+  {
+    "name": "Bangladesh",
+    "population": 164689383,
+    "languages": ["Bengali"],
+    "historySummary": "Bangladesh was part of British India and later East Pakistan before gaining independence. It is known for its river delta.",
+    "capital": "Dhaka",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/bangladesh-flag-png-large.png",
+    "joke": "Why did the Bangladeshi chef open a restaurant? Because they wanted to 'curry' favor with delicious dishes!"
+  },
+  {
+    "name": "Bhutan",
+    "population": 771608,
+    "languages": ["Dzongkha"],
+    "historySummary": "Bhutan is known for its stunning landscapes, including the Himalayan mountains, and its unique approach to Gross National Happiness.",
+    "capital": "Thimphu",
+    "religion": "Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/bhutan-flag-png-large.png",
+    "joke": "Why did the Bhutanese musician start a band? Because they wanted to 'beat' the rhythm of the prayer flags!"
+  },
+  {
+    "name": "Brunei",
+    "population": 437479,
+    "languages": ["Malay"],
+    "historySummary": "Brunei is known for its rich oil reserves and is one of the world's wealthiest countries. It has a monarchy.",
+    "capital": "Bandar Seri Begawan",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/brunei-flag-png-large.png",
+    "joke": "Why did the Bruneian chef open a restaurant? Because they wanted to 'grill' some delicious ambuyat!"
+  },
+  {
+    "name": "Cambodia",
+    "population": 16718965,
+    "languages": ["Khmer"],
+    "historySummary": "Cambodia is known for its ancient temples, including Angkor Wat, and a history marked by the Khmer Rouge regime and civil war.",
+    "capital": "Phnom Penh",
+    "religion": "Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/cambodia-flag-png-large.png",
+    "joke": "Why did the Cambodian artist become a comedian? Because they could 'sketch' some hilarious tales of Angkor Thom!"
+  },
+  {
+    "name": "China",
+    "population": 1439323776,
+    "languages": ["Mandarin"],
+    "historySummary": "China is one of the world's oldest civilizations and has a rich history marked by dynasties, revolutions, and modernization.",
+    "capital": "Beijing",
+    "religion": "Atheism, Buddhism, Taoism, Christianity, Islam, and others",
+    "image": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png",
+    "joke": "Why did the Chinese chef open a restaurant? Because they wanted to 'wok' the flavors of their famous cuisine!"
+  },
+  {
+    "name": "Cyprus",
+    "population": 1207359,
+    "languages": ["Greek", "Turkish"],
+    "historySummary": "Cyprus is known for its divided status between Greek Cypriots and Turkish Cypriots. It has a complex history of conflict.",
+    "capital": "Nicosia",
+    "religion": "Christianity (predominantly Greek Orthodox and Islam)",
+    "image": "https://www.countryflags.com/wp-content/uploads/cyprus-flag-png-large.png",
+    "joke": "Why did the Cypriot artist become a comedian? Because they could 'sketch' some humorous tales of divided Nicosia!"
+  },
+  {
+    "name": "Georgia",
+    "population": 3989167,
+    "languages": ["Georgian"],
+    "historySummary": "Georgia is known for its ancient history, unique alphabet, and a complex modern history marked by conflicts, including with Russia.",
+    "capital": "Tbilisi",
+    "religion": "Christianity (Georgian Orthodox Church)",
+    "image": "https://www.countryflags.com/wp-content/uploads/georgia-flag-png-large.png",
+    "joke": "Why did the Georgian musician start a band? Because they wanted to 'beat' the rhythm of the Caucasus Mountains!"
+  },
+  {
+    "name": "India",
+    "population": 1380004385,
+    "languages": ["Hindi", "English"],
+    "historySummary": "India is one of the world's oldest civilizations with a rich cultural heritage and a history of empires and colonial rule.",
+    "capital": "New Delhi",
+    "religion": "Hinduism, Islam, Christianity, Sikhism, Buddhism, and others",
+    "image": "https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png",
+    "joke": "Why did the Indian chef open a restaurant? Because they wanted to 'curry' favor with the incredible diversity of Indian cuisine!"
+  },
+  {
+    "name": "Indonesia",
+    "population": 273523621,
+    "languages": ["Indonesian"],
+    "historySummary": "Indonesia is the world's largest island country and is known for its diverse cultures, landscapes, and history of colonization.",
+    "capital": "Jakarta",
+    "religion": "Islam",
+    "image": "https://www.countryflags.com/wp-content/uploads/indonesia-flag-png-large.png",
+    "joke": "Why did the Indonesian chef open a restaurant? Because they wanted to 'spice' up the flavors of Indonesian cuisine!"
+  },
+  {
+    "name": "Iran",
+    "population": 83992949,
+    "languages": ["Persian"],
+    "historySummary": "Iran is known for its ancient history, Persian culture, and a complex modern history marked by the Islamic Revolution.",
+    "capital": "Tehran",
+    "religion": "Islam (predominantly Shia)",
+    "image": "https://www.countryflags.com/wp-content/uploads/iran-flag-png-large.png",
+    "joke": "Why did the Iranian musician start a band? Because they wanted to 'beat' the rhythm of Persepolis!"
+  },
+  {
+    "name": "Iraq",
+    "population": 40222493,
+    "languages": ["Arabic", "Kurdish"],
+    "historySummary": "Iraq is known for its ancient civilizations, including Mesopotamia, and a modern history marked by conflict and instability.",
+    "capital": "Baghdad",
+    "religion": "Islam (predominantly Shia)",
+    "image": "https://www.countryflags.com/wp-content/uploads/iraq-flag-png-large.png",
+    "joke": "Why did the Iraqi artist become a comedian? Because they could 'sketch' some humorous tales of the Tigris and Euphrates!"
+  },
+  {
+    "name": "Israel",
+    "population": 8655535,
+    "languages": ["Hebrew", "Arabic"],
+    "historySummary": "Israel is known for its ancient history, religious significance, and a complex modern history marked by conflicts in the Middle East.",
+    "capital": "Jerusalem",
+    "religion": "Judaism, Islam, Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/israel-flag-png-large.png",
+    "joke": "Why did the Israeli chef open a restaurant? Because they wanted to 'kosher' up some delicious dishes!"
+  },
+  {
+    "name": "Japan",
+    "population": 126476461,
+    "languages": ["Japanese"],
+    "historySummary": "Japan is known for its ancient culture, traditions, and a history marked by samurai, feudal lords, and modernization.",
+    "capital": "Tokyo",
+    "religion": "Shintoism, Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png",
+    "joke": "Why did the Japanese musician start a band? Because they wanted to 'beat' the rhythm of Mount Fuji!"
+  },
+  {
+    "name": "Jordan",
+    "population": 10203140,
+    "languages": ["Arabic"],
+    "historySummary": "Jordan is known for its historical sites, including Petra, and its modern history as a stable country in a volatile region.",
+    "capital": "Amman",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/jordan-flag-png-large.png",
+    "joke": "Why did the Jordanian artist become a comedian? Because they could 'sketch' some humorous tales of the Dead Sea!"
+  },
+  {
+    "name": "Kuwait",
+    "population": 4270571,
+    "languages": ["Arabic"],
+    "historySummary": "Kuwait is known for its oil wealth, desert landscapes, and a modern history marked by the Gulf War and liberation from Iraq.",
+    "capital": "Kuwait City",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/kuwait-flag-png-large.png",
+    "joke": "Why did the Kuwaiti artist become a comedian? Because they could 'sketch' some humorous tales of the Kuwaiti desert!"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "population": 6524195,
+    "languages": ["Kyrgyz", "Russian"],
+    "historySummary": "Kyrgyzstan is known for its mountainous landscapes, nomadic heritage, and a history marked by Soviet rule and independence.",
+    "capital": "Bishkek",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/kyrgyzstan-flag-png-large.png",
+    "joke": "Why did the Kyrgyz chef open a restaurant? Because they wanted to 'stir up' some delicious manti!"
+  },
+  {
+    "name": "Laos",
+    "population": 7275560,
+    "languages": ["Lao"],
+    "historySummary": "Laos is known for its stunning landscapes, including the Mekong River, and a history marked by French colonial rule and conflict.",
+    "capital": "Vientiane",
+    "religion": "Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/laos-flag-png-large.png",
+    "joke": "Why did the Laotian artist become a comedian? Because they could 'sketch' some humorous tales of the Golden Stupa!"
+  },
+  {
+    "name": "Lebanon",
+    "population": 6825442,
+    "languages": ["Arabic", "French"],
+    "historySummary": "Lebanon is known for its rich history, diverse culture, and a modern history marked by civil war and political instability.",
+    "capital": "Beirut",
+    "religion": "Islam (predominantly Shia and Sunni), Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/lebanon-flag-png-large.png",
+    "joke": "Why did the Lebanese chef open a restaurant? Because they wanted to 'mezza'-rize diners with delicious Lebanese cuisine!"
+  },
+  {
+    "name": "Malaysia",
+    "population": 32365999,
+    "languages": ["Malay", "English"],
+    "historySummary": "Malaysia is known for its diverse culture, rainforests, and a history marked by British colonial rule and independence.",
+    "capital": "Kuala Lumpur",
+    "religion": "Islam",
+    "image": "https://www.countryflags.com/wp-content/uploads/malaysia-flag-png-large.png",
+    "joke": "Why did the Malaysian chef open a restaurant? Because they wanted to 'curry' favor with their amazing rendang!"
+  },
+  {
+    "name": "Maldives",
+    "population": 521167,
+    "languages": ["Dhivehi"],
+    "historySummary": "Maldives is known for its stunning coral reefs, resorts, and a history marked by its role in the Indian Ocean trade.",
+    "capital": "Male",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/maldives-flag-png-large.png",
+    "joke": "Why did the Maldivian artist become a comedian? Because they could 'sketch' some hilarious tales of island life!"
+  },
+  {
+    "name": "Mongolia",
+    "population": 3278290,
+    "languages": ["Mongolian"],
+    "historySummary": "Mongolia is known for its vast steppes, nomadic culture, and a history marked by the Mongol Empire and Soviet influence.",
+    "capital": "Ulaanbaatar",
+    "religion": "Buddhism, Shamanism",
+    "image": "https://www.countryflags.com/wp-content/uploads/mongolia-flag-png-large.png",
+    "joke": "Why did the Mongolian musician start a band? Because they wanted to 'beat' the rhythm of the Gobi Desert!"
+  },
+  {
+    "name": "Myanmar",
+    "population": 54409800,
+    "languages": ["Burmese"],
+    "historySummary": "Myanmar, also known as Burma, has a rich history, diverse ethnic groups, and a history marked by military rule and conflict.",
+    "capital": "Naypyidaw",
+    "religion": "Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/myanmar-flag-png-large.png",
+    "joke": "Why did the Burmese chef open a restaurant? Because they wanted to 'spice' up the flavors of Burmese cuisine!"
+  },
+  {
+    "name": "Nepal",
+    "population": 29136808,
+    "languages": ["Nepali"],
+    "historySummary": "Nepal is known for its Himalayan mountains, including Mount Everest, and a history marked by monarchy and political changes.",
+    "capital": "Kathmandu",
+    "religion": "Hinduism, Buddhism",
+    "image": "https://www.countryflags.com/wp-content/uploads/nepal-flag-png-large.png",
+    "joke": "Why did the Nepali artist become a comedian? Because they could 'sketch' some humorous tales of the Himalayas!"
+  },
+  {
+    "name": "North Korea",
+    "population": 25778816,
+    "languages": ["Korean"],
+    "historySummary": "North Korea, officially known as the Democratic People's Republic of Korea, has a secretive regime and a history of tensions with South Korea.",
+    "capital": "Pyongyang",
+    "religion": "Juche (state ideology)",
+    "image": "https://www.countryflags.com/wp-content/uploads/north-korea-flag-png-large.png",
+    "joke": "Why did the North Korean chef open a restaurant? Because they wanted to 'kimchi' up some delicious dishes!"
+  },
+  {
+    "name": "Oman",
+    "population": 5106622,
+    "languages": ["Arabic"],
+    "historySummary": "Oman is known for its desert landscapes, historic forts, and a modern history as a stable country in the Arabian Peninsula.",
+    "capital": "Muscat",
+    "religion": "Islam (predominantly Ibadi)",
+    "image": "https://www.countryflags.com/wp-content/uploads/oman-flag-png-large.png",
+    "joke": "Why did the Omani artist become a comedian? Because they could 'sketch' some humorous tales of the Empty Quarter!"
+  },
+  {
+    "name": "Pakistan",
+    "population": 220892340,
+    "languages": ["Urdu", "English"],
+    "historySummary": "Pakistan was part of British India and later became a separate country. It is known for its diverse culture and history.",
+    "capital": "Islamabad",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png",
+    "joke": "Why did the Pakistani chef open a restaurant? Because they wanted to 'curry' favor with their delicious biryani!"
+  },
+  {
+    "name": "Palestine",
+    "population": 5189744,
+    "languages": ["Arabic", "English", "Hebrew"],
+    "historySummary": "Palestine has a long history of conflict and is known for its cultural heritage, including sites like Bethlehem and Jerusalem.",
+    "capital": "Ramallah (administrative) and East Jerusalem (claimed)",
+    "religion": "Islam, Christianity, Judaism",
+    "image": "https://www.countryflags.com/wp-content/uploads/palestine-flag-png-large.png",
+    "joke": "Why did the Palestinian artist become a comedian? Because they could 'sketch' some humorous tales of the West Bank!"
+  },
+  {
+    "name": "Philippines",
+    "population": 113253503,
+    "languages": ["Filipino", "English"],
+    "historySummary": "The Philippines is known for its beautiful beaches, diverse culture, and a history marked by Spanish and American colonization.",
+    "capital": "Manila",
+    "religion": "Christianity (predominantly Roman Catholic)",
+    "image": "https://www.countryflags.com/wp-content/uploads/philippines-flag-png-large.png",
+    "joke": "Why did the Filipino chef open a restaurant? Because they wanted to 'adobo' their way into people's hearts!"
+  },
+  {
+    "name": "Qatar",
+    "population": 2889284,
+    "languages": ["Arabic"],
+    "historySummary": "Qatar is known for its wealth, futuristic architecture, and a modern history marked by rapid development and hosting major events.",
+    "capital": "Doha",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/qatar-flag-png-large.png",
+    "joke": "Why did the Qatari artist become a comedian? Because they could 'sketch' some humorous tales of the World Cup!"
+  },
+  {
+    "name": "Saudi Arabia",
+    "population": 35340662,
+    "languages": ["Arabic"],
+    "historySummary": "Saudi Arabia is known for its vast deserts, Islamic holy sites, and a modern history marked by the founding of the Kingdom of Saudi Arabia.",
+    "capital": "Riyadh",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/saudi-arabia-flag-png-large.png",
+    "joke": "Why did the Saudi chef open a restaurant? Because they wanted to 'spice' up the flavors of Arabian cuisine!"
+  },
+  {
+    "name": "Singapore",
+    "population": 5850342,
+    "languages": ["Malay", "English", "Mandarin", "Tamil"],
+    "historySummary": "Singapore is known for its modern city-state, diverse culture, and a history marked by British colonial rule and independence.",
+    "capital": "Singapore City",
+    "religion": "Buddhism, Islam, Christianity, Hinduism",
+    "image": "https://www.countryflags.com/wp-content/uploads/singapore-flag-png-large.png",
+    "joke": "Why did the Singaporean chef open a restaurant? Because they wanted to 'wok' the culinary path to success!"
+  },
+  {
+    "name": "South Korea",
+    "population": 51780579,
+    "languages": ["Korean"],
+    "historySummary": "South Korea, officially known as the Republic of Korea, is known for its rapid modernization, K-pop, and tensions with North Korea.",
+    "capital": "Seoul",
+    "religion": "Buddhism, Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/south-korea-flag-png-large.png",
+    "joke": "Why did the South Korean musician start a band? Because they wanted to 'beat' the rhythm of Gangnam Style!"
+  },
+  {
+    "name": "Sri Lanka",
+    "population": 21670000,
+    "languages": ["Sinhala", "Tamil"],
+    "historySummary": "Sri Lanka, formerly Ceylon, is known for its stunning beaches, ancient history, and a history marked by civil conflict.",
+    "capital": "Colombo",
+    "religion": "Buddhism, Hinduism, Islam, Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/sri-lanka-flag-png-large.png",
+    "joke": "Why did the Sri Lankan chef open a restaurant? Because they wanted to 'curry' favor with their amazing seafood dishes!"
+  },
+  {
+    "name": "Syria",
+    "population": 17500658,
+    "languages": ["Arabic"],
+    "historySummary": "Syria is known for its ancient cities, including Damascus, and a modern history marked by conflict and civil war.",
+    "capital": "Damascus",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/syria-flag-png-large.png",
+    "joke": "Why did the Syrian artist become a comedian? Because they could 'sketch' some humorous tales of the Silk Road!"
+  },
+  {
+    "name": "Turkey",
+    "population": 85471067,
+    "languages": ["Turkish"],
+    "historySummary": "Turkey is a transcontinental country known for its rich history, unique blend of cultures, and iconic landmarks like the Hagia Sophia and Cappadocia. It was the center of the Byzantine and Ottoman Empires.",
+    "capital": "Ankara",
+    "religion": "Mainly Islam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+    "joke": "Why did the Turkish chef become a culinary genius? Because they wanted to 'kebab' everyone's attention!"
+  },
+  {
+    "name": "Turkmenistan",
+    "population": 6031187,
+    "languages": ["Turkmen"],
+    "historySummary": "Turkmenistan is known for its desert landscapes, ancient cities like Merv, and a unique personality cult of its former president.",
+    "capital": "Ashgabat",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/turkmenistan-flag-png-large.png",
+    "joke": "Why did the Turkmen chef open a restaurant? Because they wanted to 'spice' up the flavors of Turkmen cuisine!"
+  },
+  {
+    "name": "Uzbekistan",
+    "population": 33580650,
+    "languages": ["Uzbek", "Russian"],
+    "historySummary": "Uzbekistan is known for its Silk Road cities like Samarkand and Bukhara, as well as its rich Central Asian culture.",
+    "capital": "Tashkent",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png",
+    "joke": "Why did the Uzbek chef open a restaurant? Because they wanted to 'spice' up the flavors of Central Asian cuisine!"
+  },
+  {
+    "name": "Vietnam",
+    "population": 97338579,
+    "languages": ["Vietnamese"],
+    "historySummary": "Vietnam is known for its stunning landscapes, history of conflict, and rich cultural heritage.",
+    "capital": "Hanoi",
+    "religion": "Buddhism, indigenous beliefs",
+    "image": "https://www.countryflags.com/wp-content/uploads/vietnam-flag-png-large.png",
+    "joke": "Why did the Vietnamese chef open a restaurant? Because they wanted to 'pho'-nomenal flavors to the world!"
+  },
+  {
+    "name": "Yemen",
+    "population": 29825964,
+    "languages": ["Arabic"],
+    "historySummary": "Yemen is known for its ancient history, but it has also faced political instability and conflict in recent years.",
+    "capital": "Sana'a",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/yemen-flag-png-large.png",
+    "joke": "Why did the Yemeni chef open a restaurant? Because they wanted to 'spice' up the flavors of Yemeni cuisine!"
+  },
+  {
+    "name": "Taiwan",
+    "population": 23758247,
+    "languages": ["Mandarin"],
+    "historySummary": "Taiwan, officially the Republic of China, is known for its technological innovation, democracy, and complex relationship with China.",
+    "capital": "Taipei",
+    "religion": "Buddhism, Taoism",
+    "image": "https://www.countryflags.com/wp-content/uploads/taiwan-flag-png-large.png",
+    "joke": "Why did the Taiwanese musician start a band? Because they wanted to 'beat' the rhythm of the night markets!"
+  },
+  {
+    "name": "Tajikistan",
+    "population": 9537645,
+    "languages": ["Tajik", "Russian"],
+    "historySummary": "Tajikistan is known for its mountainous landscapes, Persian heritage, and a history marked by Soviet rule and independence.",
+    "capital": "Dushanbe",
+    "religion": "Islam (predominantly Sunni)",
+    "image": "https://www.countryflags.com/wp-content/uploads/tajikistan-flag-png-large.png",
+    "joke": "Why did the Tajik chef open a restaurant? Because they wanted to 'spice' up the flavors of Central Asian cuisine!"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Population": 35340662,
+    "Languages": ["Arabic"],
+    "History Summary": "Saudi Arabia is known for its vast deserts, Islamic holy sites, and a modern history marked by the founding of the Kingdom of Saudi Arabia.",
+    "Capital": "Riyadh",
+    "Religion": "Islam (predominantly Sunni)",
+    "Flag Image URL": "https://www.countryflags.com/wp-content/uploads/saudi-arabia-flag-png-large.png",
+    "Joke": "Why did the Saudi chef open a restaurant? Because they wanted to 'spice' up the flavors of Arabian cuisine!"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Population": 21670000,
+    "Languages": ["Sinhala", "Tamil"],
+    "History Summary": "Sri Lanka, formerly Ceylon, is known for its stunning beaches, ancient history, and a history marked by civil conflict.",
+    "Capital": "Colombo",
+    "Religion": "Buddhism, Hinduism, Islam, Christianity",
+    "Flag Image URL": "https://www.countryflags.com/wp-content/uploads/sri-lanka-flag-png-large.png",
+    "Joke": "Why did the Sri Lankan chef open a restaurant? Because they wanted to 'curry' favor with their amazing seafood dishes!"
+  }
+]

@@ -1,6 +1,6 @@
 import type { MetaFunction } from '@remix-run/node';
 import { CountryPage } from '~/components/CountryPage/CountryPage';
-import data from '../../EU-data.json';
+import * as allData from '../../data';
 
 let urlParam: string | undefined;
 
@@ -13,6 +13,12 @@ export const meta: MetaFunction = ({ params }) => {
 };
 
 export default function Country() {
+  const data = Object.values(allData).reduce<Array<any>>(
+    (accumulator, currentValue) => {
+      return accumulator.concat(currentValue);
+    },
+    []
+  );
   const renderedCountry = Object.values(data).filter(
     (country) => country.name === urlParam
   );

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Argentina",
+    "population": 45195777,
+    "languages": [
+      "Spanish"
+    ],
+    "historySummary": "Argentina is a South American country known for its diverse landscapes, culture, and history. It is famous for tango dancing and its beef production.",
+    "capital": "Buenos Aires",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/argentina-flag-png-large.png",
+    "joke": "Why did the Argentine soccer team go to the bank? To get their goalie savings!"
+  },
+  {
+    "name": "Bolivia",
+    "population": 11673021,
+    "languages": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "historySummary": "Bolivia is a landlocked South American country known for its Andean landscapes, indigenous culture, and history. It was named after Simon Bolivar.",
+    "capital": "Sucre (Constitutional), La Paz (Administrative)",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/bolivia-flag-png-large.png",
+    "joke": "Why did the Bolivian chef become a mountain climber? Because they wanted to 'peak' the culinary world!"
+  },
+  {
+    "name": "Brazil",
+    "population": 212559417,
+    "languages": [
+      "Portuguese"
+    ],
+    "historySummary": "Brazil is the largest South American country known for its Amazon rainforest, diverse culture, and vibrant Carnival festival. It was a Portuguese colony.",
+    "capital": "Brasília",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png",
+    "joke": "Why did the Brazilian soccer player bring string to the game? Because they wanted to tie the score!"
+  },
+  {
+    "name": "Chile",
+    "population": 19116201,
+    "languages": [
+      "Spanish"
+    ],
+    "historySummary": "Chile is a South American country known for its long coastline, diverse geography, and wine production. It was home to ancient indigenous cultures.",
+    "capital": "Santiago",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/chile-flag-png-large.png",
+    "joke": "Why did the Chilean chef start a vineyard? Because they wanted to 'wine'd down and relax!"
+  },
+  {
+    "name": "Colombia",
+    "population": 50882891,
+    "languages": [
+      "Spanish"
+    ],
+    "historySummary": "Colombia is a South American country known for its coffee production, biodiversity, and cultural heritage. It was named after Christopher Columbus.",
+    "capital": "Bogotá",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png",
+    "joke": "Why did the Colombian musician start a band? Because they wanted to 'riddim' the world with their music!"
+  },
+  {
+    "name": "Ecuador",
+    "population": 17643054,
+    "languages": [
+      "Spanish"
+    ],
+    "historySummary": "Ecuador is a South American country known for its diverse landscapes, including the Amazon rainforest and the Galápagos Islands. It is on the equator.",
+    "capital": "Quito",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/ecuador-flag-png-large.png",
+    "joke": "Why did the Ecuadorian explorer always carry a compass? Because they wanted to 'point' the way to adventure!"
+  },
+  {
+    "name": "Guyana",
+    "population": 786508,
+    "languages": [
+      "English"
+    ],
+    "historySummary": "Guyana is a South American country known for its lush rainforests, diverse culture, and British colonial history. It is the only English-speaking country in South America.",
+    "capital": "Georgetown",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/guyana-flag-png-large.png",
+    "joke": "Why did the Guyanese farmer bring a ladder to the field? Because they heard the crops were 'up'-standing!"
+  },
+  {
+    "name": "Paraguay",
+    "population": 7132530,
+    "languages": [
+      "Spanish",
+      "Guarani"
+    ],
+    "historySummary": "Paraguay is a landlocked South American country known for its indigenous culture and the Paraguay River. It is one of the least densely populated countries in South America.",
+    "capital": "Asunción",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/paraguay-flag-png-large.png",
+    "joke": "Why did the Paraguayan soccer player bring a ladder to the game? Because they wanted to 'Paraguayan-climb' the ranks!"
+  },
+  {
+    "name": "Peru",
+    "population": 32971854,
+    "languages": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "historySummary": "Peru is a South American country known for its ancient Inca civilization, Machu Picchu, and diverse geography. It was once the center of the Inca Empire.",
+    "capital": "Lima",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/peru-flag-png-large.png",
+    "joke": "Why did the Peruvian chef start a restaurant? Because they wanted to 'Peru-se' the best flavors!"
+  },
+  {
+    "name": "Suriname",
+    "population": 586632,
+    "languages": [
+      "Dutch",
+      "Sranan Tongo",
+      "Hindustani",
+      "Javanese"
+    ],
+    "historySummary": "Suriname is a small South American country known for its diverse culture, Dutch colonial history, and rainforests. It was formerly known as Dutch Guiana.",
+    "capital": "Paramaribo",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/suriname-flag-png-large.png",
+    "joke": "Why did the Surinamese fisherman always carry a pencil? In case he caught a draw-fish!"
+  },
+  {
+    "name": "Uruguay",
+    "population": 3473727,
+    "languages": [
+      "Spanish"
+    ],
+    "historySummary": "Uruguay is a small South American country known for its progressive policies, beautiful beaches, and cultural heritage. It was the first country in the world to legalize cannabis.",
+    "capital": "Montevideo",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/uruguay-flag-png-large.png",
+    "joke": "Why did the Uruguayan soccer player bring a ladder to the game? Because they wanted to 'Uruguayan-climb' the ranks!"
+  },
+  {
+    "name": "Venezuela",
+    "population": 28435940,
+    "languages": [
+      "Spanish"
+    ],
+    "historySummary": "Venezuela is a South American country known for its oil reserves, diverse landscapes, and cultural heritage. It was named after Venice by explorer Amerigo Vespucci.",
+    "capital": "Caracas",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/venezuela-flag-png-large.png",
+    "joke": "Why did the Venezuelan musician start a band? Because they wanted to 'venez-wail-a' great melody!"
+  }
+]

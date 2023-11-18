@@ -80,16 +80,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1280px-Flag_of_Croatia.svg.png"
   },
   {
-    "name": "Cyprus",
-    "population": 888005,
-    "languages": ["Greek", "Turkish"],
-    "historySummary": "Cyprus has been divided between the Greek Cypriot south and the Turkish Cypriot north since 1974. Reunification efforts have been ongoing, but a resolution has not been reached.",
-    "joke": "Why did the computer go to Cyprus for vacation? Because it needed a byte of the Mediterranean!",
-    "capital": "Nicosia",
-    "religion": "Christianity (Orthodox and Islam)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1280px-Flag_of_Cyprus.svg.png"
-  },
-  {
     "name": "Czech Republic",
     "population": 10708981,
     "languages": ["Czech"],

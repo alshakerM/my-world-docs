@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Canada",
+    "population": 37742154,
+    "languages": ["English", "French"],
+    "historySummary": "Canada is a North American country known for its vast landscapes, multicultural society, and strong economy. It is a constitutional monarchy with a parliamentary democracy.",
+    "capital": "Ottawa",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
+    "joke": "Why did the Canadian cross the road? To get to the Tim Hortons on the other side, eh!"
+  },
+  {
+    "name": "United States",
+    "population": 331002651,
+    "languages": ["English"],
+    "historySummary": "The United States is a diverse and influential country in North America. It has a history of immigration, innovation, and global leadership.",
+    "capital": "Washington, D.C.",
+    "religion": "Religious diversity, predominantly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/united-states-flag-png-large.png",
+    "joke": "Why did the American football player go to the bank? To get his quarterback!"
+  },
+  {
+    "name": "Mexico",
+    "population": 128932753,
+    "languages": ["Spanish"],
+    "historySummary": "Mexico is a country in North America known for its rich culture, history, and cuisine. It has a diverse landscape, including mountains, deserts, and beaches.",
+    "capital": "Mexico City",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/mexico-flag-png-large.png",
+    "joke": "Why don't Mexicans ever have accidents? Because they take things Juan step at a time!"
+  },
+  {
+    "name": "Guatemala",
+    "population": 17915568,
+    "languages": ["Spanish"],
+    "historySummary": "Guatemala is a Central American country known for its Mayan heritage and diverse landscapes. It has faced political and social challenges but is working towards stability.",
+    "capital": "Guatemala City",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/guatemala-flag-png-large.png",
+    "joke": "Why did the Guatemalan farmer bring a ladder to the bar? Because he heard the drinks were on the house!"
+  },
+  {
+    "name": "Belize",
+    "population": 397621,
+    "languages": ["English"],
+    "historySummary": "Belize is a small country in Central America known for its natural beauty and biodiversity. It was formerly known as British Honduras.",
+    "capital": "Belmopan",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/belize-flag-png-large.png",
+    "joke": "Why did the Belizean fisherman always carry a pencil? In case he caught a draw-fish!"
+  },
+  {
+    "name": "El Salvador",
+    "population": 6486201,
+    "languages": ["Spanish"],
+    "historySummary": "El Salvador is a Central American country known for its history of civil conflict and challenges. It is working on social and economic development.",
+    "capital": "San Salvador",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png",
+    "joke": "Why did the El Salvadoran musician start a band? Because they wanted to play 'salvadorable' music!"
+  },
+  {
+    "name": "Honduras",
+    "population": 9904607,
+    "languages": ["Spanish"],
+    "historySummary": "Honduras is a Central American country known for its natural beauty and challenges such as political instability and poverty. It is working towards development.",
+    "capital": "Tegucigalpa",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/honduras-flag-png-large.png",
+    "joke": "Why did the Honduran soccer player bring string to the game? Because they wanted to tie the score!"
+  },
+  {
+    "name": "Nicaragua",
+    "population": 6624554,
+    "languages": ["Spanish"],
+    "historySummary": "Nicaragua is a Central American country known for its lakes and volcanoes. It has faced political turmoil and is striving for stability and development.",
+    "capital": "Managua",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/nicaragua-flag-png-large.png",
+    "joke": "Why did the Nicaraguan computer scientist create a password? To protect their 'Nica-identity' online!"
+  },
+  {
+    "name": "Costa Rica",
+    "population": 5094118,
+    "languages": ["Spanish"],
+    "historySummary": "Costa Rica is a Central American country known for its natural beauty, biodiversity, and commitment to environmental conservation. It has a stable democracy.",
+    "capital": "San José",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/costa-rica-flag-png-large.png",
+    "joke": "Why did the Costa Rican surfer bring a ladder to the beach? Because they heard the waves were high!"
+  },
+  {
+    "name": "Panama",
+    "population": 4314767,
+    "languages": ["Spanish"],
+    "historySummary": "Panama is a Central American country known for its canal, connecting the Atlantic and Pacific Oceans. It has a diverse economy and cultural heritage.",
+    "capital": "Panama City",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/panama-flag-png-large.png",
+    "joke": "Why did the Panamanian chef open a seafood restaurant? Because they wanted to 'canal' all the flavors!"
+  },
+  {
+    "name": "Jamaica",
+    "population": 2961167,
+    "languages": ["English", "Jamaican Patois"],
+    "historySummary": "Jamaica is an island country in the Caribbean known for its reggae music, beautiful beaches, and cultural heritage. It gained independence from the UK in 1962.",
+    "capital": "Kingston",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/jamaica-flag-png-large.png",
+    "joke": "Why did the Jamaican musician start a band? Because they wanted to 'riddim' the world with their music!"
+  },
+  {
+    "name": "Haiti",
+    "population": 11402528,
+    "languages": ["French", "Haitian Creole"],
+    "historySummary": "Haiti is a Caribbean country known for its history of revolution and struggle. It was the first independent nation in Latin America and the Caribbean.",
+    "capital": "Port-au-Prince",
+    "religion": "Mainly Roman Catholicism and Vodou",
+    "image": "https://www.countryflags.com/wp-content/uploads/haiti-flag-png-large.png",
+    "joke": "Why did the Haitian painter become famous? Because their art was 'haitian' to be amazing!"
+  },
+  {
+    "name": "Dominican Republic",
+    "population": 10847910,
+    "languages": ["Spanish"],
+    "historySummary": "The Dominican Republic shares the island of Hispaniola with Haiti. It is known for its beautiful beaches, tourism, and cultural diversity.",
+    "capital": "Santo Domingo",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/dominican-republic-flag-png-large.png",
+    "joke": "Why did the Dominican baseball player bring a ladder to the game? Because they wanted to 'Dominiclimb' the ranks!"
+  },
+  {
+    "name": "Cuba",
+    "population": 11326616,
+    "languages": ["Spanish"],
+    "historySummary": "Cuba is a Caribbean island nation known for its history, culture, and revolutionary past. It has a socialist system and is known for its music and cigars.",
+    "capital": "Havana",
+    "religion": "Mainly atheism, Christianity, and Santería",
+    "image": "https://www.countryflags.com/wp-content/uploads/cuba-flag-png-large.png",
+    "joke": "Why did the Cuban chef open a restaurant? Because they wanted to 'Havana' great dining experience!"
+  },
+  {
+    "name": "The Bahamas",
+    "population": 393244,
+    "languages": ["English"],
+    "historySummary": "The Bahamas is an island nation in the Atlantic Ocean known for its beautiful beaches and tourism. It is a constitutional monarchy and a Commonwealth realm.",
+    "capital": "Nassau",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/bahamas-flag-png-large.png",
+    "joke": "Why did the Bahamian sailor always bring a map to the beach? Because they wanted to navigate the 'Bahama' waters!"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "population": 1399488,
+    "languages": ["English"],
+    "historySummary": "Trinidad and Tobago is a Caribbean nation known for its multicultural society, carnival celebrations, and natural beauty. It gained independence from the UK in 1962.",
+    "capital": "Port of Spain",
+    "religion": "Religious diversity, mainly Christianity and Hinduism",
+    "image": "https://www.countryflags.com/wp-content/uploads/trinidad-and-tobago-flag-png-large.png",
+    "joke": "Why did the Trinidadian dancer always bring a music player to the beach? Because they wanted to 'Trini-tune' their moves!"
+  },
+  {
+    "name": "Bermuda",
+    "population": 62278,
+    "languages": ["English"],
+    "historySummary": "Bermuda is a British Overseas Territory in the North Atlantic Ocean known for its pink sand beaches and tourism. It has a parliamentary democracy.",
+    "capital": "Hamilton",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/bermuda-flag-png-large.png",
+    "joke": "Why did the Bermudian swimmer bring a towel to the beach? Because they wanted to 'bermuda-towel' off!"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "population": 5798,
+    "languages": ["French"],
+    "historySummary": "Saint Pierre and Miquelon is an overseas collectivity of France located off the coast of Newfoundland, Canada. It is known for its French heritage.",
+    "capital": "Saint-Pierre",
+    "religion": "Mainly Roman Catholicism",
+    "image": "https://www.countryflags.com/wp-content/uploads/saint-pierre-and-miquelon-flag-png-large.png",
+    "joke": "Why did the Saint Pierre and Miquelon chef open a bakery? Because they wanted to 'pierre-fect' their pastries!"
+  },
+  {
+    "name": "Greenland",
+    "population": 56770,
+    "languages": ["Greenlandic", "Danish"],
+    "historySummary": "Greenland is an autonomous territory within the Kingdom of Denmark. It is known for its Arctic landscapes, glaciers, and Inuit culture.",
+    "capital": "Nuuk",
+    "religion": "Mainly Christianity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+    "joke": "Why did the Greenlandic explorer always carry a compass? Because they wanted to 'point' the way to adventure!"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "population": 53199,
+    "languages": ["English"],
+    "historySummary": "Saint Kitts and Nevis is a small island nation in the Caribbean known for its beaches and historic sites. It gained independence from the UK in 1983.",
+    "capital": "Basseterre",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/saint-kitts-and-nevis-flag-png-large.png",
+    "joke": "Why did the Saint Kitts and Nevis chef start a restaurant? Because they wanted to 'nevis' the best Caribbean cuisine!"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "population": 97929,
+    "languages": ["English"],
+    "historySummary": "Antigua and Barbuda is an island nation in the Caribbean known for its beaches, tourism, and historic sites. It gained independence from the UK in 1981.",
+    "capital": "St. John's",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/antigua-and-barbuda-flag-png-large.png",
+    "joke": "Why did the Antiguan and Barbudan sailor bring a map to the beach? Because they wanted to navigate the 'bar-buda' waters!"
+  },
+  {
+    "name": "Saint Lucia",
+    "population": 183627,
+    "languages": ["English"],
+    "historySummary": "Saint Lucia is an island nation in the Caribbean known for its natural beauty, beaches, and cultural heritage. It gained independence from the UK in 1979.",
+    "capital": "Castries",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/saint-lucia-flag-png-large.png",
+    "joke": "Why did the Saint Lucian musician start a band? Because they wanted to 'lucia' up the Caribbean with their tunes!"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "population": 110211,
+    "languages": ["English"],
+    "historySummary": "Saint Vincent and the Grenadines is an island nation in the Caribbean known for its natural beauty, sailing, and cultural heritage. It gained independence from the UK in 1979.",
+    "capital": "Kingstown",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/saint-vincent-and-the-grenadines-flag-png-large.png",
+    "joke": "Why did the Saint Vincent and the Grenadines chef open a restaurant? Because they wanted to 'grenadine' the best Caribbean flavors!"
+  },
+  {
+    "name": "Grenada",
+    "population": 112523,
+    "languages": ["English"],
+    "historySummary": "Grenada is an island nation in the Caribbean known for its natural beauty, spice production, and cultural heritage. It gained independence from the UK in 1974.",
+    "capital": "St. George's",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/grenada-flag-png-large.png",
+    "joke": "Why did the Grenadian gardener always bring a rake to the beach? Because they wanted to 'rake' in the beach vibes!"
+  },
+  {
+    "name": "Barbados",
+    "population": 287375,
+    "languages": ["English"],
+    "historySummary": "Barbados is an island nation in the Caribbean known for its beautiful beaches, tourism, and cultural heritage. It gained independence from the UK in 1966.",
+    "capital": "Bridgetown",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/barbados-flag-png-large.png",
+    "joke": "Why did the Barbadian chef start a restaurant? Because they wanted to 'barbado' the best Caribbean cuisine!"
+  },
+  {
+    "name": "Dominica",
+    "population": 71986,
+    "languages": ["English"],
+    "historySummary": "Dominica is an island nation in the Caribbean known for its natural beauty, rainforests, and cultural heritage. It gained independence from the UK in 1978.",
+    "capital": "Roseau",
+    "religion": "Mainly Christianity",
+    "image": "https://www.countryflags.com/wp-content/uploads/dominica-flag-png-large.png",
+    "joke": "Why did the Dominican musician start a band? Because they wanted to 'domini-rock' the Caribbean with their music!"
+  }
+]
